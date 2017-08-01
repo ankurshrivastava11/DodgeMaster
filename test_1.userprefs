@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/obstacle.cs">
+    <Files>
+      <File FileName="Assets/Scripts/obstacle.cs" Line="80" Column="32" />
+      <File FileName="Assets/Scripts/switchLanes.cs" Line="13" Column="13" />
+      <File FileName="Assets/Scripts/createCoin.cs" Line="12" Column="2" />
+      <File FileName="Assets/Scripts/createObstacles.cs" Line="6" Column="24" />
+      <File FileName="Assets/Scripts/moveTrees.cs" Line="15" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
